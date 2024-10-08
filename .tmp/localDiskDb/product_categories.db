@@ -1,0 +1,5 @@
+{"name":"雕塑手办","desc":"lmzb","createdAt":1725529011388,"updatedAt":1725529011388,"id":1,"parent":0,"cover_image":"https://game.gtimg.cn/images/zb/x5/uploadImg/goods/201712/20171205200207_77656.big.jpg","_id":1}
+{"name":"毛绒玩偶","desc":"lmzb","createdAt":1725529011388,"updatedAt":1725529011388,"id":2,"parent":0,"cover_image":"https://game.gtimg.cn/images/zb/x5/uploadImg/goods/202101/20210120214843_39472.big.jpg","_id":2}
+{"name":"男女服饰","desc":"lmzb","createdAt":1725529011388,"updatedAt":1725529011388,"id":3,"parent":0,"cover_image":"https://game.gtimg.cn/images/zb/x5/uploadImg/goods/202104/20210409175934_45107.big.jpg","_id":3}
+{"name":"生活周边","desc":"lmzb","createdAt":1725529011388,"updatedAt":1725529011388,"id":4,"parent":0,"cover_image":"https://game.gtimg.cn/images/zb/x5/uploadImg/goods/202101/20210118181726_94604.big.jpg","_id":4}
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}

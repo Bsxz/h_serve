@@ -1,0 +1,3 @@
+{"password":"YWVzLTI1Ni1nY20kJGRlZmF1bHQ=$bb5WK0StRyvCQa8u$O+nurjPx0A==$IeTTbIvJnNIZuFUKznUb8Q","avatar":"http://oss.penkuoer.com/uPic/ss.jpeg","createdAt":1725529011384,"updatedAt":1725529011384,"id":1,"gender":"未知","user_name":"admin","nick_name":"Arivin","_id":1}
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"$$indexCreated":{"fieldName":"user_name","unique":true,"sparse":false}}
